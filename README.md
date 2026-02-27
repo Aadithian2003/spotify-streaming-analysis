@@ -5,7 +5,7 @@ This project provides a deep-dive analysis into the most popular songs on Spotif
 
 ## Key Insights
 - **Streaming Peak:** 2022 was a record-breaking year, contributing **23.78%** of the total streams in the dataset.
-- **Musical Anatomy:** High-energy tracks show a strong positive correlation with danceability. $C\#$ is the most utilized key among top-charting tracks.
+- **Musical Anatomy:** High-energy tracks show a strong positive correlation with danceability. C# is the most utilized key among top-charting tracks.
 - **Top Performers:** **Taylor Swift** dominates the dataset with 34 tracks, significantly outperforming other major artists in volume.
 - **Major vs. Minor:** Tracks in **Major Mode** account for over **61%** of all Spotify playlist placements.
 
@@ -22,8 +22,8 @@ The analysis shows a massive growth curve in music consumption, with $2022$ reac
 We observed that listeners prefer a balance of high energy and danceability. Interestingly, **Minor Mode** tracks actually tend to have higher danceability scores compared to Major tracks.
 
 ### 3. Key Distribution
-- **Most Popular Key:** C (12.59% of tracks)
-- **Least Popular Key:** D
+- **Most Popular Key:** C# (12.59% of tracks)
+- **Least Popular Key:** D#
 
 ## How to Run the Analysis
 1. Clone this repository: `git clone https://github.com/YourUsername/spotify-analysis.git`
